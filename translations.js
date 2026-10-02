@@ -31,7 +31,7 @@ window.TRANSLATIONS = {
     'how.s1p': "Tell me your child's age and when you're free. No forms, no commitment.",
     'how.s2t': 'Free trial class',
     'how.s2p': "Your child comes along and plays — literally. You'll see if it clicks.",
-    'how.s3t': 'Join your tribe',
+    'how.s3t': 'Find your tribe',
     'how.s3p': 'I match them with a group of 4–6 kids at a similar level and vibe.',
     'how.s4t': 'Weekly adventures',
     'how.s4p': '60-minute sessions, each with a theme, craft, song and little story.',
